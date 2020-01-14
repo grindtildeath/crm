@@ -7,7 +7,7 @@
     "development_status": "Alpha",
     "category": "Sales/CRM",
     "website": "https://github.com/OCA/crm",
-    "author": "Camptocamp, Odoo Community Association (OCA)",
+    "author": "Camptocamp, Odoo Community Association (OCA), Odoo SA",
     "license": "AGPL-3",
     "depends": ["crm"],
     "data": [
